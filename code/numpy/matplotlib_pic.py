@@ -1,0 +1,3 @@
+import numpy
+import matplotlib.pyplot
+from matplotlib.finance import quotes_historical_yahoo
